@@ -1,0 +1,221 @@
+@media only screen and (max-width:375px){
+
+    .main_container{
+      display: grid;
+      grid-template-columns:auto auto auto ;
+      grid-template-rows: 40px 10px 15px 400px 50px 20px 30px;
+      background-color: #ff794d;
+      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+    }
+  
+    .logo{
+    color: #ffcc00;
+    margin: 165px;
+    text-decoration: none;
+    font-size: 25px;
+    grid-row: 1;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  } 
+  
+  body{
+    background-color: #ff794d;
+  }
+  
+  .nav{
+    background-color: #cc3300;
+    grid-row: 1;
+    grid-column: 1 /span 3; 
+    border-bottom: 8px solid #800000;
+    width: 400px;
+}
+  
+  ul{
+    display: block;
+    list-style-type: none;
+    overflow: hidden;
+    margin:0px;
+    padding: 0px;
+    overflow: hidden;
+    background-color: #800000;
+    grid-row: 2;
+  
+  }
+  
+  li{
+    float: left;
+    display: block;
+    padding: 3px;
+  }
+  
+  li a{
+    /*background-color: purple;*/
+    display: block;
+    text-decoration: none;
+    color: #ffcc00;
+    padding: 1px 70px;
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+  
+  .start_button{
+    background-color: yellow;
+    width: 400px;
+    height: 50px;
+    font-size: 25px;
+    color: white;
+    border: none;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+    border-left: 5px solid #cc3300;
+    border-right: 5px solid #cc3300;
+    border-bottom: 5px solid #cc3300;
+  
+  }
+  
+  #start_container{
+  grid-row: 5;
+  grid-column: 1 /span 3;
+  
+  }
+  
+  .main_game_container{
+    background-color: lightgray;
+    grid-row: 4;
+    grid-column: 1 /span 3;
+    border: 5px solid #cc3300;
+    width: 390px;
+}
+  /*****************************************************/
+  #head_title{
+    font-size: 15px;
+    text-align: center;
+    width: 305px;
+    height: 25px;
+    margin-left:50px;
+    grid-row: 3;
+    
+   /* background-color: pink;*/
+  }
+  
+  #character_button_container{
+    grid-row: 5;
+    text-align: center;
+    /*background-color:mediumaquamarine;*/  
+    grid-column: 1;
+  }
+  #random_court_container{
+    grid-row: 6;
+    grid-column: 1;
+    text-align: center;
+  /*  background-color: violet;*/
+  }
+  
+  #user_character{
+    float: left;
+    text-align: center;
+    grid-row: 3;
+    font-size: 20px;
+  }
+  
+  #computer_character{
+    float: right;
+    text-align: center;
+    grid-row: 3;
+    font-size: 20px;
+  }
+  
+  #court_select{
+    text-align: center;
+    grid-column: 2;
+    font-size: 25px;
+  }
+  
+  #user_score{
+    float: left;
+    font-size: 45px;
+    color: black;
+  }
+  
+  
+  #computer_score{
+    float: right;
+    font-size: 45px;
+    color: black;
+  }
+  
+  /************************************************/
+  #game_buttons{
+    grid-row: 5;
+    grid-column: 1;
+    margin-left: 90px;
+   padding-bottom: 10px;
+  }
+  
+  #user_move{
+    grid-column: 1;
+    grid-row: 6;
+    text-align: left;
+    color: yellow;
+    float: left;
+    font-size: 20px;
+  }
+  
+  #computer_move{
+    grid-column: 1;
+    grid-row: 6;
+    text-align: right;
+    margin-right: 0px;
+    color: yellow;
+    float: right;
+    font-size: 20px;
+  }
+  
+  
+  #match_response{
+    grid-row: 7;
+    grid-column: 1;
+    text-align: center;
+    color: white;
+    padding-bottom: 15px;
+  }
+  
+  
+  /************************************************/
+  #userArt{
+    margin-top: 75px;
+    height: 200px;
+    width: 120px;
+    grid-column: 1;
+    float: left;
+    
+  }
+  
+  #computerArt{
+    margin-top: 75px;
+    height: 200px;
+    width: 120px;
+    grid-column: 3;
+    float: right;
+  }
+  
+  #newGame{
+    background-color:orange;
+    font-size: 25px;
+    padding: 2px 115px;
+    width: 400px;
+    height: 50;
+    text-align: center;
+    color: white;
+    border: none;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-bottom: 5px solid #cc3300;
+    border-left: 5px solid #cc3300;
+    border-right: 5px solid #cc3300;
+}
+  
+  
+  
+  /********************************************/
+  }

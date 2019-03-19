@@ -1,0 +1,316 @@
+@media only screen 
+and (min-width : 1224px) {
+    /* Styles */
+
+/* USER CHARACTER BUTTONS*/
+#aId{
+    border:2px solid orangered;
+    padding: 10px  24px;
+    margin: 5px;
+    font-size: 15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: #ffff80;
+}
+
+#zId{
+    border:2px solid orangered;
+    padding: 10px  24px;
+    margin: 5px;
+    font-size: 15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: #ffff80;
+}
+
+#ganooId{
+    border: 2px solid orangered;
+    padding: 10px  24px;
+    margin: 5px;
+    font-size: 15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: #ffff80;
+}
+
+#virginelleId{
+    border: 2px solid orangered;
+    padding: 10px  24px;
+    margin: 5px;
+    font-size: 15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: #ffff80;
+}
+
+#railId{
+    border: 2px solid orangered;
+    padding: 10px  24px;
+    margin: 5px;
+    font-size: 15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: #ffff80;
+}
+
+#clawdiaId{
+    border: 2px solid orangered;
+    padding: 10px  24px;
+    margin: 5px;
+    font-size: 15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: #ffff80;
+}
+
+#hiJackId{
+    border: 2px solid orangered;
+    padding: 10px  24px;
+    margin: 5px;
+    font-size: 15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: #ffff80;
+}
+
+#woodiniId{
+    border: 2px solid orangered;
+    padding: 10px  24px;
+    margin: 5px;
+    font-size: 15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: #ffff80;
+}
+
+#randomCharacterId{
+    border: 2px solid orangered;
+    padding: 8px  312px;
+    margin:10px;
+    font-size: 15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: #ffff80;
+}
+
+/*OPPONENT SELECT BUTTONS*/
+
+#oppAId{
+    border:2px solid orangered;
+    padding: 10px  24px;
+    margin: 5px;
+    font-size: 15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: #ffff80;
+}
+
+#oppZId{
+    border:2px solid orangered;
+    padding: 10px  24px;
+    margin: 5px;
+    font-size: 15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: #ffff80;
+}
+
+#oppGanooId{
+    border:2px solid orangered;
+    padding: 10px  24px;
+    margin: 5px;
+    font-size: 15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: #ffff80;
+}
+
+#oppVirginelleId{
+    border:2px solid orangered;
+    padding: 10px  24px;
+    margin: 5px;
+    font-size: 15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: #ffff80;
+}
+
+#oppRailId{
+    border:2px solid orangered;
+    padding: 10px  24px;
+    margin: 5px;
+    font-size: 15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: #ffff80;
+}
+
+#oppClawdiaId{
+    border:2px solid orangered;
+    padding: 10px  24px;
+    margin: 5px;
+    font-size: 15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: #ffff80;
+}
+
+#oppHiJackId{
+    border:2px solid orangered;
+    padding: 10px  24px;
+    margin: 5px;
+    font-size: 15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: #ffff80;
+}
+
+#oppWoodiniId{
+    border:2px solid orangered;
+    padding: 10px  24px;
+    margin: 5px;
+    font-size: 15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: #ffff80;
+}
+
+#oppRandomCharacterId{
+    border: 2px solid orangered;
+    padding: 8px  312px;
+    margin:10px;
+    font-size: 15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: #ffff80;
+}
+
+/*COURT SELECTION BUTTONS*/
+
+#wildRecId{
+    border: 2px solid orangered;
+    padding: 10px  24px;
+    margin: 5px;
+    font-size: 15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: #ffff80;
+}
+
+#rimRockId{   
+    border: 2px solid orangered;
+    padding: 10px  24px;
+    margin: 5px;
+    font-size: 15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: #ffff80;
+}
+
+#lakiaId{
+    border: 2px solid orangered;
+    padding: 10px  24px;
+    margin: 5px;
+    font-size: 15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: #ffff80;
+}
+
+#swishId{
+    border: 2px solid orangered;
+    padding: 10px  24px;
+    margin: 5px;
+    font-size: 15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: #ffff80;
+}
+#random_courtId{
+    border: 2px solid orangered;
+    padding: 8px  312px;
+    margin: 10px;
+    font-size: 15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: #ffff80;
+}
+
+#shootId{
+background-color: blue;
+padding: 10px 24px;
+margin: 10px;
+font-size: 20px;
+border: none;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+color: #c4c4ed;
+border: 3px solid #19194d;
+}
+
+#crossoverId{
+background-color: blue;
+padding: 10px 24px;
+margin: 10px;
+font-size: 20px;
+border: none;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+color:#c4c4ed;
+border: 3px solid #19194d;
+}
+
+#passId{
+background-color: blue;
+padding: 10px 24px;
+margin: 10px;
+font-size: 20px;
+border: none;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+color: #c4c4ed;
+border: 3px solid #19194d;
+}
+
+#blockId{
+background-color: red;
+padding: 10px 24px;
+margin: 10px;
+font-size: 20px;
+border: none;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+color: #ffb3b3;
+border: 3px solid #990000;
+}
+
+#lockdownId{
+background-color: red;
+padding: 10px 24px;
+margin: 10px;
+font-size: 20px;
+border: none;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+color: #ffb3b3;
+border: 3px solid #990000;
+}
+
+#stealId{
+background-color: red;
+padding: 10px 24px;
+margin: 10px;
+font-size: 20px;
+border: none;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+color:#ffb3b3;
+border: 3px solid #990000;
+}
+
+#game_reset{
+    grid-column: 1; 
+    grid-row: 5;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#newGame{
+    background-color:orange;
+    font-size: 35px;
+    transition: 0.3s;
+    width: 1366px;
+    height: 75px;
+    text-align: center;
+    border: none;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-bottom: 5px solid #cc3300;
+    border-left: 5px solid #cc3300;
+    border-right: 5px solid #cc3300;
+}
+
+#newGame:hover{
+    background-color: yellow;
+    color: black;
+}
+
+#gameOver{
+    grid-column: 6;
+    grid-row: 4;
+    text-align: center;
+    font-size: 45px;
+    /*padding-top: 50px;*/
+}
+
+}
